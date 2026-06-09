@@ -1,0 +1,8 @@
+body{font-family:Arial,sans-serif;padding:20px;background:#f4f4f4}
+.container{max-width:1000px;margin:auto}
+form{display:flex;gap:10px;margin-bottom:20px}
+input,select,button{padding:10px}
+#results{display:flex;flex-wrap:wrap;gap:15px}
+.movie{background:#fff;padding:10px;border:1px solid #ccc;width:180px}
+.movie img{width:100%}
+#details{margin-top:20px;background:#fff;padding:15px}
